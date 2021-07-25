@@ -1,0 +1,27 @@
+Package: TablasOMS
+Title: Tablas De La OMS
+Version: 0.0.0.9000
+Authors@R: person('Cristian', 'Heredia', email = 'cristianvoice@gmail.com', role = c('cre', 'aut'))
+Description: Tablas Graficas.
+License: MIT + file LICENSE
+Imports: 
+    attempt,
+    config (>= 0.3.1),
+    dashboardthemes,
+    dplyr,
+    DT,
+    ggplot2,
+    glue,
+    golem (>= 0.3.1),
+    htmltools,
+    lubridate,
+    pkgload,
+    plotly,
+    shiny (>= 1.6.0),
+    shinydashboard,
+    tidyr
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
