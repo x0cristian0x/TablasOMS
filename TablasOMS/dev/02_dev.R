@@ -41,8 +41,8 @@ golem::add_css_file( "custom" )
 
 ## Add internal datasets ----
 ## If you have data in your package
-load("data/data_craneal_05.rda")
-usethis::use_data( name = data_ee_05, overwrite = TRUE ) 
+
+
 
 ## Tests ----
 ## Add one line by test you want to create
