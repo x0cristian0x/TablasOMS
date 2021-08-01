@@ -1,0 +1,1835 @@
+Longitud,Desviacion,Peso,sexo
+45,-3 SD,1.9,niño
+45.5,-3 SD,1.9,niño
+46,-3 SD,2,niño
+46.5,-3 SD,2.1,niño
+47,-3 SD,2.1,niño
+47.5,-3 SD,2.2,niño
+48,-3 SD,2.3,niño
+48.5,-3 SD,2.3,niño
+49,-3 SD,2.4,niño
+49.5,-3 SD,2.5,niño
+50,-3 SD,2.6,niño
+50.5,-3 SD,2.7,niño
+51,-3 SD,2.7,niño
+51.5,-3 SD,2.8,niño
+52,-3 SD,2.9,niño
+52.5,-3 SD,3,niño
+53,-3 SD,3.1,niño
+53.5,-3 SD,3.2,niño
+54,-3 SD,3.3,niño
+54.5,-3 SD,3.4,niño
+55,-3 SD,3.6,niño
+55.5,-3 SD,3.7,niño
+56,-3 SD,3.8,niño
+56.5,-3 SD,3.9,niño
+57,-3 SD,4,niño
+57.5,-3 SD,4.1,niño
+58,-3 SD,4.3,niño
+58.5,-3 SD,4.4,niño
+59,-3 SD,4.5,niño
+59.5,-3 SD,4.6,niño
+60,-3 SD,4.7,niño
+60.5,-3 SD,4.8,niño
+61,-3 SD,4.9,niño
+61.5,-3 SD,5,niño
+62,-3 SD,5.1,niño
+62.5,-3 SD,5.2,niño
+63,-3 SD,5.3,niño
+63.5,-3 SD,5.4,niño
+64,-3 SD,5.5,niño
+64.5,-3 SD,5.6,niño
+65,-3 SD,5.7,niño
+65.5,-3 SD,5.8,niño
+66,-3 SD,5.9,niño
+66.5,-3 SD,6,niño
+67,-3 SD,6.1,niño
+67.5,-3 SD,6.2,niño
+68,-3 SD,6.3,niño
+68.5,-3 SD,6.4,niño
+69,-3 SD,6.5,niño
+69.5,-3 SD,6.6,niño
+70,-3 SD,6.6,niño
+70.5,-3 SD,6.7,niño
+71,-3 SD,6.8,niño
+71.5,-3 SD,6.9,niño
+72,-3 SD,7,niño
+72.5,-3 SD,7.1,niño
+73,-3 SD,7.2,niño
+73.5,-3 SD,7.2,niño
+74,-3 SD,7.3,niño
+74.5,-3 SD,7.4,niño
+75,-3 SD,7.5,niño
+75.5,-3 SD,7.6,niño
+76,-3 SD,7.6,niño
+76.5,-3 SD,7.7,niño
+77,-3 SD,7.8,niño
+77.5,-3 SD,7.9,niño
+78,-3 SD,7.9,niño
+78.5,-3 SD,8,niño
+79,-3 SD,8.1,niño
+79.5,-3 SD,8.2,niño
+80,-3 SD,8.2,niño
+80.5,-3 SD,8.3,niño
+81,-3 SD,8.4,niño
+81.5,-3 SD,8.5,niño
+82,-3 SD,8.5,niño
+82.5,-3 SD,8.6,niño
+83,-3 SD,8.7,niño
+83.5,-3 SD,8.8,niño
+84,-3 SD,8.9,niño
+84.5,-3 SD,9,niño
+85,-3 SD,9.1,niño
+85.5,-3 SD,9.2,niño
+86,-3 SD,9.3,niño
+86.5,-3 SD,9.4,niño
+87,-3 SD,9.5,niño
+87.5,-3 SD,9.6,niño
+88,-3 SD,9.7,niño
+88.5,-3 SD,9.8,niño
+89,-3 SD,9.9,niño
+89.5,-3 SD,10,niño
+90,-3 SD,10.1,niño
+90.5,-3 SD,10.2,niño
+91,-3 SD,10.3,niño
+91.5,-3 SD,10.4,niño
+92,-3 SD,10.5,niño
+92.5,-3 SD,10.6,niño
+93,-3 SD,10.7,niño
+93.5,-3 SD,10.7,niño
+94,-3 SD,10.8,niño
+94.5,-3 SD,10.9,niño
+95,-3 SD,11,niño
+95.5,-3 SD,11.1,niño
+96,-3 SD,11.2,niño
+96.5,-3 SD,11.3,niño
+97,-3 SD,11.4,niño
+97.5,-3 SD,11.5,niño
+98,-3 SD,11.6,niño
+98.5,-3 SD,11.7,niño
+99,-3 SD,11.8,niño
+99.5,-3 SD,11.9,niño
+100,-3 SD,12,niño
+100.5,-3 SD,12.1,niño
+101,-3 SD,12.2,niño
+101.5,-3 SD,12.3,niño
+102,-3 SD,12.4,niño
+102.5,-3 SD,12.5,niño
+103,-3 SD,12.6,niño
+103.5,-3 SD,12.7,niño
+104,-3 SD,12.8,niño
+104.5,-3 SD,12.9,niño
+105,-3 SD,13,niño
+105.5,-3 SD,13.2,niño
+106,-3 SD,13.3,niño
+106.5,-3 SD,13.4,niño
+107,-3 SD,13.5,niño
+107.5,-3 SD,13.6,niño
+108,-3 SD,13.7,niño
+108.5,-3 SD,13.8,niño
+109,-3 SD,14,niño
+109.5,-3 SD,14.1,niño
+110,-3 SD,14.2,niño
+45,-2 SD,2,niño
+45.5,-2 SD,2.1,niño
+46,-2 SD,2.2,niño
+46.5,-2 SD,2.3,niño
+47,-2 SD,2.3,niño
+47.5,-2 SD,2.4,niño
+48,-2 SD,2.5,niño
+48.5,-2 SD,2.6,niño
+49,-2 SD,2.6,niño
+49.5,-2 SD,2.7,niño
+50,-2 SD,2.8,niño
+50.5,-2 SD,2.9,niño
+51,-2 SD,3,niño
+51.5,-2 SD,3.1,niño
+52,-2 SD,3.2,niño
+52.5,-2 SD,3.3,niño
+53,-2 SD,3.4,niño
+53.5,-2 SD,3.5,niño
+54,-2 SD,3.6,niño
+54.5,-2 SD,3.7,niño
+55,-2 SD,3.8,niño
+55.5,-2 SD,4,niño
+56,-2 SD,4.1,niño
+56.5,-2 SD,4.2,niño
+57,-2 SD,4.3,niño
+57.5,-2 SD,4.5,niño
+58,-2 SD,4.6,niño
+58.5,-2 SD,4.7,niño
+59,-2 SD,4.8,niño
+59.5,-2 SD,5,niño
+60,-2 SD,5.1,niño
+60.5,-2 SD,5.2,niño
+61,-2 SD,5.3,niño
+61.5,-2 SD,5.4,niño
+62,-2 SD,5.6,niño
+62.5,-2 SD,5.7,niño
+63,-2 SD,5.8,niño
+63.5,-2 SD,5.9,niño
+64,-2 SD,6,niño
+64.5,-2 SD,6.1,niño
+65,-2 SD,6.2,niño
+65.5,-2 SD,6.3,niño
+66,-2 SD,6.4,niño
+66.5,-2 SD,6.5,niño
+67,-2 SD,6.6,niño
+67.5,-2 SD,6.7,niño
+68,-2 SD,6.8,niño
+68.5,-2 SD,6.9,niño
+69,-2 SD,7,niño
+69.5,-2 SD,7.1,niño
+70,-2 SD,7.2,niño
+70.5,-2 SD,7.3,niño
+71,-2 SD,7.4,niño
+71.5,-2 SD,7.5,niño
+72,-2 SD,7.6,niño
+72.5,-2 SD,7.6,niño
+73,-2 SD,7.7,niño
+73.5,-2 SD,7.8,niño
+74,-2 SD,7.9,niño
+74.5,-2 SD,8,niño
+75,-2 SD,8.1,niño
+75.5,-2 SD,8.2,niño
+76,-2 SD,8.3,niño
+76.5,-2 SD,8.3,niño
+77,-2 SD,8.4,niño
+77.5,-2 SD,8.5,niño
+78,-2 SD,8.6,niño
+78.5,-2 SD,8.7,niño
+79,-2 SD,8.7,niño
+79.5,-2 SD,8.8,niño
+80,-2 SD,8.9,niño
+80.5,-2 SD,9,niño
+81,-2 SD,9.1,niño
+81.5,-2 SD,9.1,niño
+82,-2 SD,9.2,niño
+82.5,-2 SD,9.3,niño
+83,-2 SD,9.4,niño
+83.5,-2 SD,9.5,niño
+84,-2 SD,9.6,niño
+84.5,-2 SD,9.7,niño
+85,-2 SD,9.8,niño
+85.5,-2 SD,9.9,niño
+86,-2 SD,10,niño
+86.5,-2 SD,10.1,niño
+87,-2 SD,10.2,niño
+87.5,-2 SD,10.4,niño
+88,-2 SD,10.5,niño
+88.5,-2 SD,10.6,niño
+89,-2 SD,10.7,niño
+89.5,-2 SD,10.8,niño
+90,-2 SD,10.9,niño
+90.5,-2 SD,11,niño
+91,-2 SD,11.1,niño
+91.5,-2 SD,11.2,niño
+92,-2 SD,11.3,niño
+92.5,-2 SD,11.4,niño
+93,-2 SD,11.5,niño
+93.5,-2 SD,11.6,niño
+94,-2 SD,11.7,niño
+94.5,-2 SD,11.8,niño
+95,-2 SD,11.9,niño
+95.5,-2 SD,12,niño
+96,-2 SD,12.1,niño
+96.5,-2 SD,12.2,niño
+97,-2 SD,12.3,niño
+97.5,-2 SD,12.4,niño
+98,-2 SD,12.5,niño
+98.5,-2 SD,12.6,niño
+99,-2 SD,12.7,niño
+99.5,-2 SD,12.8,niño
+100,-2 SD,12.9,niño
+100.5,-2 SD,13,niño
+101,-2 SD,13.2,niño
+101.5,-2 SD,13.3,niño
+102,-2 SD,13.4,niño
+102.5,-2 SD,13.5,niño
+103,-2 SD,13.6,niño
+103.5,-2 SD,13.7,niño
+104,-2 SD,13.9,niño
+104.5,-2 SD,14,niño
+105,-2 SD,14.1,niño
+105.5,-2 SD,14.2,niño
+106,-2 SD,14.4,niño
+106.5,-2 SD,14.5,niño
+107,-2 SD,14.6,niño
+107.5,-2 SD,14.7,niño
+108,-2 SD,14.9,niño
+108.5,-2 SD,15,niño
+109,-2 SD,15.1,niño
+109.5,-2 SD,15.3,niño
+110,-2 SD,15.4,niño
+45,-1 SD,2.2,niño
+45.5,-1 SD,2.3,niño
+46,-1 SD,2.4,niño
+46.5,-1 SD,2.5,niño
+47,-1 SD,2.5,niño
+47.5,-1 SD,2.6,niño
+48,-1 SD,2.7,niño
+48.5,-1 SD,2.8,niño
+49,-1 SD,2.9,niño
+49.5,-1 SD,3,niño
+50,-1 SD,3,niño
+50.5,-1 SD,3.1,niño
+51,-1 SD,3.2,niño
+51.5,-1 SD,3.3,niño
+52,-1 SD,3.5,niño
+52.5,-1 SD,3.6,niño
+53,-1 SD,3.7,niño
+53.5,-1 SD,3.8,niño
+54,-1 SD,3.9,niño
+54.5,-1 SD,4,niño
+55,-1 SD,4.2,niño
+55.5,-1 SD,4.3,niño
+56,-1 SD,4.4,niño
+56.5,-1 SD,4.6,niño
+57,-1 SD,4.7,niño
+57.5,-1 SD,4.9,niño
+58,-1 SD,5,niño
+58.5,-1 SD,5.1,niño
+59,-1 SD,5.3,niño
+59.5,-1 SD,5.4,niño
+60,-1 SD,5.5,niño
+60.5,-1 SD,5.6,niño
+61,-1 SD,5.8,niño
+61.5,-1 SD,5.9,niño
+62,-1 SD,6,niño
+62.5,-1 SD,6.1,niño
+63,-1 SD,6.2,niño
+63.5,-1 SD,6.4,niño
+64,-1 SD,6.5,niño
+64.5,-1 SD,6.6,niño
+65,-1 SD,6.7,niño
+65.5,-1 SD,6.8,niño
+66,-1 SD,6.9,niño
+66.5,-1 SD,7,niño
+67,-1 SD,7.1,niño
+67.5,-1 SD,7.2,niño
+68,-1 SD,7.3,niño
+68.5,-1 SD,7.5,niño
+69,-1 SD,7.6,niño
+69.5,-1 SD,7.7,niño
+70,-1 SD,7.8,niño
+70.5,-1 SD,7.9,niño
+71,-1 SD,8,niño
+71.5,-1 SD,8.1,niño
+72,-1 SD,8.2,niño
+72.5,-1 SD,8.3,niño
+73,-1 SD,8.4,niño
+73.5,-1 SD,8.5,niño
+74,-1 SD,8.6,niño
+74.5,-1 SD,8.7,niño
+75,-1 SD,8.8,niño
+75.5,-1 SD,8.8,niño
+76,-1 SD,8.9,niño
+76.5,-1 SD,9,niño
+77,-1 SD,9.1,niño
+77.5,-1 SD,9.2,niño
+78,-1 SD,9.3,niño
+78.5,-1 SD,9.4,niño
+79,-1 SD,9.5,niño
+79.5,-1 SD,9.5,niño
+80,-1 SD,9.6,niño
+80.5,-1 SD,9.7,niño
+81,-1 SD,9.8,niño
+81.5,-1 SD,9.9,niño
+82,-1 SD,10,niño
+82.5,-1 SD,10.1,niño
+83,-1 SD,10.2,niño
+83.5,-1 SD,10.3,niño
+84,-1 SD,10.4,niño
+84.5,-1 SD,10.5,niño
+85,-1 SD,10.6,niño
+85.5,-1 SD,10.7,niño
+86,-1 SD,10.8,niño
+86.5,-1 SD,11,niño
+87,-1 SD,11.1,niño
+87.5,-1 SD,11.2,niño
+88,-1 SD,11.3,niño
+88.5,-1 SD,11.4,niño
+89,-1 SD,11.5,niño
+89.5,-1 SD,11.6,niño
+90,-1 SD,11.8,niño
+90.5,-1 SD,11.9,niño
+91,-1 SD,12,niño
+91.5,-1 SD,12.1,niño
+92,-1 SD,12.2,niño
+92.5,-1 SD,12.3,niño
+93,-1 SD,12.4,niño
+93.5,-1 SD,12.5,niño
+94,-1 SD,12.6,niño
+94.5,-1 SD,12.7,niño
+95,-1 SD,12.8,niño
+95.5,-1 SD,12.9,niño
+96,-1 SD,13.1,niño
+96.5,-1 SD,13.2,niño
+97,-1 SD,13.3,niño
+97.5,-1 SD,13.4,niño
+98,-1 SD,13.5,niño
+98.5,-1 SD,13.6,niño
+99,-1 SD,13.7,niño
+99.5,-1 SD,13.9,niño
+100,-1 SD,14,niño
+100.5,-1 SD,14.1,niño
+101,-1 SD,14.2,niño
+101.5,-1 SD,14.4,niño
+102,-1 SD,14.5,niño
+102.5,-1 SD,14.6,niño
+103,-1 SD,14.8,niño
+103.5,-1 SD,14.9,niño
+104,-1 SD,15,niño
+104.5,-1 SD,15.2,niño
+105,-1 SD,15.3,niño
+105.5,-1 SD,15.4,niño
+106,-1 SD,15.6,niño
+106.5,-1 SD,15.7,niño
+107,-1 SD,15.9,niño
+107.5,-1 SD,16,niño
+108,-1 SD,16.2,niño
+108.5,-1 SD,16.3,niño
+109,-1 SD,16.5,niño
+109.5,-1 SD,16.6,niño
+110,-1 SD,16.8,niño
+45,Mediana,2.4,niño
+45.5,Mediana,2.5,niño
+46,Mediana,2.6,niño
+46.5,Mediana,2.7,niño
+47,Mediana,2.8,niño
+47.5,Mediana,2.9,niño
+48,Mediana,2.9,niño
+48.5,Mediana,3,niño
+49,Mediana,3.1,niño
+49.5,Mediana,3.2,niño
+50,Mediana,3.3,niño
+50.5,Mediana,3.4,niño
+51,Mediana,3.5,niño
+51.5,Mediana,3.6,niño
+52,Mediana,3.8,niño
+52.5,Mediana,3.9,niño
+53,Mediana,4,niño
+53.5,Mediana,4.1,niño
+54,Mediana,4.3,niño
+54.5,Mediana,4.4,niño
+55,Mediana,4.5,niño
+55.5,Mediana,4.7,niño
+56,Mediana,4.8,niño
+56.5,Mediana,5,niño
+57,Mediana,5.1,niño
+57.5,Mediana,5.3,niño
+58,Mediana,5.4,niño
+58.5,Mediana,5.6,niño
+59,Mediana,5.7,niño
+59.5,Mediana,5.9,niño
+60,Mediana,6,niño
+60.5,Mediana,6.1,niño
+61,Mediana,6.3,niño
+61.5,Mediana,6.4,niño
+62,Mediana,6.5,niño
+62.5,Mediana,6.7,niño
+63,Mediana,6.8,niño
+63.5,Mediana,6.9,niño
+64,Mediana,7,niño
+64.5,Mediana,7.1,niño
+65,Mediana,7.3,niño
+65.5,Mediana,7.4,niño
+66,Mediana,7.5,niño
+66.5,Mediana,7.6,niño
+67,Mediana,7.7,niño
+67.5,Mediana,7.9,niño
+68,Mediana,8,niño
+68.5,Mediana,8.1,niño
+69,Mediana,8.2,niño
+69.5,Mediana,8.3,niño
+70,Mediana,8.4,niño
+70.5,Mediana,8.5,niño
+71,Mediana,8.6,niño
+71.5,Mediana,8.8,niño
+72,Mediana,8.9,niño
+72.5,Mediana,9,niño
+73,Mediana,9.1,niño
+73.5,Mediana,9.2,niño
+74,Mediana,9.3,niño
+74.5,Mediana,9.4,niño
+75,Mediana,9.5,niño
+75.5,Mediana,9.6,niño
+76,Mediana,9.7,niño
+76.5,Mediana,9.8,niño
+77,Mediana,9.9,niño
+77.5,Mediana,10,niño
+78,Mediana,10.1,niño
+78.5,Mediana,10.2,niño
+79,Mediana,10.3,niño
+79.5,Mediana,10.4,niño
+80,Mediana,10.4,niño
+80.5,Mediana,10.5,niño
+81,Mediana,10.6,niño
+81.5,Mediana,10.7,niño
+82,Mediana,10.8,niño
+82.5,Mediana,10.9,niño
+83,Mediana,11,niño
+83.5,Mediana,11.2,niño
+84,Mediana,11.3,niño
+84.5,Mediana,11.4,niño
+85,Mediana,11.5,niño
+85.5,Mediana,11.6,niño
+86,Mediana,11.7,niño
+86.5,Mediana,11.9,niño
+87,Mediana,12,niño
+87.5,Mediana,12.1,niño
+88,Mediana,12.2,niño
+88.5,Mediana,12.4,niño
+89,Mediana,12.5,niño
+89.5,Mediana,12.6,niño
+90,Mediana,12.7,niño
+90.5,Mediana,12.8,niño
+91,Mediana,13,niño
+91.5,Mediana,13.1,niño
+92,Mediana,13.2,niño
+92.5,Mediana,13.3,niño
+93,Mediana,13.4,niño
+93.5,Mediana,13.5,niño
+94,Mediana,13.7,niño
+94.5,Mediana,13.8,niño
+95,Mediana,13.9,niño
+95.5,Mediana,14,niño
+96,Mediana,14.1,niño
+96.5,Mediana,14.3,niño
+97,Mediana,14.4,niño
+97.5,Mediana,14.5,niño
+98,Mediana,14.6,niño
+98.5,Mediana,14.8,niño
+99,Mediana,14.9,niño
+99.5,Mediana,15,niño
+100,Mediana,15.2,niño
+100.5,Mediana,15.3,niño
+101,Mediana,15.4,niño
+101.5,Mediana,15.6,niño
+102,Mediana,15.7,niño
+102.5,Mediana,15.9,niño
+103,Mediana,16,niño
+103.5,Mediana,16.2,niño
+104,Mediana,16.3,niño
+104.5,Mediana,16.5,niño
+105,Mediana,16.6,niño
+105.5,Mediana,16.8,niño
+106,Mediana,16.9,niño
+106.5,Mediana,17.1,niño
+107,Mediana,17.3,niño
+107.5,Mediana,17.4,niño
+108,Mediana,17.6,niño
+108.5,Mediana,17.8,niño
+109,Mediana,17.9,niño
+109.5,Mediana,18.1,niño
+110,Mediana,18.3,niño
+45,+1 SD,2.7,niño
+45.5,+1 SD,2.8,niño
+46,+1 SD,2.9,niño
+46.5,+1 SD,3,niño
+47,+1 SD,3,niño
+47.5,+1 SD,3.1,niño
+48,+1 SD,3.2,niño
+48.5,+1 SD,3.3,niño
+49,+1 SD,3.4,niño
+49.5,+1 SD,3.5,niño
+50,+1 SD,3.6,niño
+50.5,+1 SD,3.8,niño
+51,+1 SD,3.9,niño
+51.5,+1 SD,4,niño
+52,+1 SD,4.1,niño
+52.5,+1 SD,4.2,niño
+53,+1 SD,4.4,niño
+53.5,+1 SD,4.5,niño
+54,+1 SD,4.7,niño
+54.5,+1 SD,4.8,niño
+55,+1 SD,5,niño
+55.5,+1 SD,5.1,niño
+56,+1 SD,5.3,niño
+56.5,+1 SD,5.4,niño
+57,+1 SD,5.6,niño
+57.5,+1 SD,5.7,niño
+58,+1 SD,5.9,niño
+58.5,+1 SD,6.1,niño
+59,+1 SD,6.2,niño
+59.5,+1 SD,6.4,niño
+60,+1 SD,6.5,niño
+60.5,+1 SD,6.7,niño
+61,+1 SD,6.8,niño
+61.5,+1 SD,7,niño
+62,+1 SD,7.1,niño
+62.5,+1 SD,7.2,niño
+63,+1 SD,7.4,niño
+63.5,+1 SD,7.5,niño
+64,+1 SD,7.6,niño
+64.5,+1 SD,7.8,niño
+65,+1 SD,7.9,niño
+65.5,+1 SD,8,niño
+66,+1 SD,8.2,niño
+66.5,+1 SD,8.3,niño
+67,+1 SD,8.4,niño
+67.5,+1 SD,8.5,niño
+68,+1 SD,8.7,niño
+68.5,+1 SD,8.8,niño
+69,+1 SD,8.9,niño
+69.5,+1 SD,9,niño
+70,+1 SD,9.2,niño
+70.5,+1 SD,9.3,niño
+71,+1 SD,9.4,niño
+71.5,+1 SD,9.5,niño
+72,+1 SD,9.6,niño
+72.5,+1 SD,9.8,niño
+73,+1 SD,9.9,niño
+73.5,+1 SD,10,niño
+74,+1 SD,10.1,niño
+74.5,+1 SD,10.2,niño
+75,+1 SD,10.3,niño
+75.5,+1 SD,10.4,niño
+76,+1 SD,10.6,niño
+76.5,+1 SD,10.7,niño
+77,+1 SD,10.8,niño
+77.5,+1 SD,10.9,niño
+78,+1 SD,11,niño
+78.5,+1 SD,11.1,niño
+79,+1 SD,11.2,niño
+79.5,+1 SD,11.3,niño
+80,+1 SD,11.4,niño
+80.5,+1 SD,11.5,niño
+81,+1 SD,11.6,niño
+81.5,+1 SD,11.7,niño
+82,+1 SD,11.8,niño
+82.5,+1 SD,11.9,niño
+83,+1 SD,12,niño
+83.5,+1 SD,12.1,niño
+84,+1 SD,12.2,niño
+84.5,+1 SD,12.4,niño
+85,+1 SD,12.5,niño
+85.5,+1 SD,12.6,niño
+86,+1 SD,12.8,niño
+86.5,+1 SD,12.9,niño
+87,+1 SD,13,niño
+87.5,+1 SD,13.2,niño
+88,+1 SD,13.3,niño
+88.5,+1 SD,13.4,niño
+89,+1 SD,13.5,niño
+89.5,+1 SD,13.7,niño
+90,+1 SD,13.8,niño
+90.5,+1 SD,13.9,niño
+91,+1 SD,14.1,niño
+91.5,+1 SD,14.2,niño
+92,+1 SD,14.3,niño
+92.5,+1 SD,14.4,niño
+93,+1 SD,14.6,niño
+93.5,+1 SD,14.7,niño
+94,+1 SD,14.8,niño
+94.5,+1 SD,14.9,niño
+95,+1 SD,15.1,niño
+95.5,+1 SD,15.2,niño
+96,+1 SD,15.3,niño
+96.5,+1 SD,15.5,niño
+97,+1 SD,15.6,niño
+97.5,+1 SD,15.7,niño
+98,+1 SD,15.9,niño
+98.5,+1 SD,16,niño
+99,+1 SD,16.2,niño
+99.5,+1 SD,16.3,niño
+100,+1 SD,16.5,niño
+100.5,+1 SD,16.6,niño
+101,+1 SD,16.8,niño
+101.5,+1 SD,16.9,niño
+102,+1 SD,17.1,niño
+102.5,+1 SD,17.3,niño
+103,+1 SD,17.4,niño
+103.5,+1 SD,17.6,niño
+104,+1 SD,17.8,niño
+104.5,+1 SD,17.9,niño
+105,+1 SD,18.1,niño
+105.5,+1 SD,18.3,niño
+106,+1 SD,18.5,niño
+106.5,+1 SD,18.6,niño
+107,+1 SD,18.8,niño
+107.5,+1 SD,19,niño
+108,+1 SD,19.2,niño
+108.5,+1 SD,19.4,niño
+109,+1 SD,19.6,niño
+109.5,+1 SD,19.8,niño
+110,+1 SD,20,niño
+45,+2 SD,3,niño
+45.5,+2 SD,3.1,niño
+46,+2 SD,3.1,niño
+46.5,+2 SD,3.2,niño
+47,+2 SD,3.3,niño
+47.5,+2 SD,3.4,niño
+48,+2 SD,3.6,niño
+48.5,+2 SD,3.7,niño
+49,+2 SD,3.8,niño
+49.5,+2 SD,3.9,niño
+50,+2 SD,4,niño
+50.5,+2 SD,4.1,niño
+51,+2 SD,4.2,niño
+51.5,+2 SD,4.4,niño
+52,+2 SD,4.5,niño
+52.5,+2 SD,4.6,niño
+53,+2 SD,4.8,niño
+53.5,+2 SD,4.9,niño
+54,+2 SD,5.1,niño
+54.5,+2 SD,5.3,niño
+55,+2 SD,5.4,niño
+55.5,+2 SD,5.6,niño
+56,+2 SD,5.8,niño
+56.5,+2 SD,5.9,niño
+57,+2 SD,6.1,niño
+57.5,+2 SD,6.3,niño
+58,+2 SD,6.4,niño
+58.5,+2 SD,6.6,niño
+59,+2 SD,6.8,niño
+59.5,+2 SD,7,niño
+60,+2 SD,7.1,niño
+60.5,+2 SD,7.3,niño
+61,+2 SD,7.4,niño
+61.5,+2 SD,7.6,niño
+62,+2 SD,7.7,niño
+62.5,+2 SD,7.9,niño
+63,+2 SD,8,niño
+63.5,+2 SD,8.2,niño
+64,+2 SD,8.3,niño
+64.5,+2 SD,8.5,niño
+65,+2 SD,8.6,niño
+65.5,+2 SD,8.7,niño
+66,+2 SD,8.9,niño
+66.5,+2 SD,9,niño
+67,+2 SD,9.2,niño
+67.5,+2 SD,9.3,niño
+68,+2 SD,9.4,niño
+68.5,+2 SD,9.6,niño
+69,+2 SD,9.7,niño
+69.5,+2 SD,9.8,niño
+70,+2 SD,10,niño
+70.5,+2 SD,10.1,niño
+71,+2 SD,10.2,niño
+71.5,+2 SD,10.4,niño
+72,+2 SD,10.5,niño
+72.5,+2 SD,10.6,niño
+73,+2 SD,10.8,niño
+73.5,+2 SD,10.9,niño
+74,+2 SD,11,niño
+74.5,+2 SD,11.2,niño
+75,+2 SD,11.3,niño
+75.5,+2 SD,11.4,niño
+76,+2 SD,11.5,niño
+76.5,+2 SD,11.6,niño
+77,+2 SD,11.7,niño
+77.5,+2 SD,11.9,niño
+78,+2 SD,12,niño
+78.5,+2 SD,12.1,niño
+79,+2 SD,12.2,niño
+79.5,+2 SD,12.3,niño
+80,+2 SD,12.4,niño
+80.5,+2 SD,12.5,niño
+81,+2 SD,12.6,niño
+81.5,+2 SD,12.7,niño
+82,+2 SD,12.8,niño
+82.5,+2 SD,13,niño
+83,+2 SD,13.1,niño
+83.5,+2 SD,13.2,niño
+84,+2 SD,13.3,niño
+84.5,+2 SD,13.5,niño
+85,+2 SD,13.6,niño
+85.5,+2 SD,13.7,niño
+86,+2 SD,13.9,niño
+86.5,+2 SD,14,niño
+87,+2 SD,14.2,niño
+87.5,+2 SD,14.3,niño
+88,+2 SD,14.5,niño
+88.5,+2 SD,14.6,niño
+89,+2 SD,14.7,niño
+89.5,+2 SD,14.9,niño
+90,+2 SD,15,niño
+90.5,+2 SD,15.1,niño
+91,+2 SD,15.3,niño
+91.5,+2 SD,15.4,niño
+92,+2 SD,15.6,niño
+92.5,+2 SD,15.7,niño
+93,+2 SD,15.8,niño
+93.5,+2 SD,16,niño
+94,+2 SD,16.1,niño
+94.5,+2 SD,16.3,niño
+95,+2 SD,16.4,niño
+95.5,+2 SD,16.5,niño
+96,+2 SD,16.7,niño
+96.5,+2 SD,16.8,niño
+97,+2 SD,17,niño
+97.5,+2 SD,17.1,niño
+98,+2 SD,17.3,niño
+98.5,+2 SD,17.5,niño
+99,+2 SD,17.6,niño
+99.5,+2 SD,17.8,niño
+100,+2 SD,18,niño
+100.5,+2 SD,18.1,niño
+101,+2 SD,18.3,niño
+101.5,+2 SD,18.5,niño
+102,+2 SD,18.7,niño
+102.5,+2 SD,18.8,niño
+103,+2 SD,19,niño
+103.5,+2 SD,19.2,niño
+104,+2 SD,19.4,niño
+104.5,+2 SD,19.6,niño
+105,+2 SD,19.8,niño
+105.5,+2 SD,20,niño
+106,+2 SD,20.2,niño
+106.5,+2 SD,20.4,niño
+107,+2 SD,20.6,niño
+107.5,+2 SD,20.8,niño
+108,+2 SD,21,niño
+108.5,+2 SD,21.2,niño
+109,+2 SD,21.4,niño
+109.5,+2 SD,21.7,niño
+110,+2 SD,21.9,niño
+45,+3 SD,3.3,niño
+45.5,+3 SD,3.4,niño
+46,+3 SD,3.5,niño
+46.5,+3 SD,3.6,niño
+47,+3 SD,3.7,niño
+47.5,+3 SD,3.8,niño
+48,+3 SD,3.9,niño
+48.5,+3 SD,4,niño
+49,+3 SD,4.2,niño
+49.5,+3 SD,4.3,niño
+50,+3 SD,4.4,niño
+50.5,+3 SD,4.5,niño
+51,+3 SD,4.7,niño
+51.5,+3 SD,4.8,niño
+52,+3 SD,5,niño
+52.5,+3 SD,5.1,niño
+53,+3 SD,5.3,niño
+53.5,+3 SD,5.4,niño
+54,+3 SD,5.6,niño
+54.5,+3 SD,5.8,niño
+55,+3 SD,6,niño
+55.5,+3 SD,6.1,niño
+56,+3 SD,6.3,niño
+56.5,+3 SD,6.5,niño
+57,+3 SD,6.7,niño
+57.5,+3 SD,6.9,niño
+58,+3 SD,7.1,niño
+58.5,+3 SD,7.2,niño
+59,+3 SD,7.4,niño
+59.5,+3 SD,7.6,niño
+60,+3 SD,7.8,niño
+60.5,+3 SD,8,niño
+61,+3 SD,8.1,niño
+61.5,+3 SD,8.3,niño
+62,+3 SD,8.5,niño
+62.5,+3 SD,8.6,niño
+63,+3 SD,8.8,niño
+63.5,+3 SD,8.9,niño
+64,+3 SD,9.1,niño
+64.5,+3 SD,9.3,niño
+65,+3 SD,9.4,niño
+65.5,+3 SD,9.6,niño
+66,+3 SD,9.7,niño
+66.5,+3 SD,9.9,niño
+67,+3 SD,10,niño
+67.5,+3 SD,10.2,niño
+68,+3 SD,10.3,niño
+68.5,+3 SD,10.5,niño
+69,+3 SD,10.6,niño
+69.5,+3 SD,10.8,niño
+70,+3 SD,10.9,niño
+70.5,+3 SD,11.1,niño
+71,+3 SD,11.2,niño
+71.5,+3 SD,11.3,niño
+72,+3 SD,11.5,niño
+72.5,+3 SD,11.6,niño
+73,+3 SD,11.8,niño
+73.5,+3 SD,11.9,niño
+74,+3 SD,12.1,niño
+74.5,+3 SD,12.2,niño
+75,+3 SD,12.3,niño
+75.5,+3 SD,12.5,niño
+76,+3 SD,12.6,niño
+76.5,+3 SD,12.7,niño
+77,+3 SD,12.8,niño
+77.5,+3 SD,13,niño
+78,+3 SD,13.1,niño
+78.5,+3 SD,13.2,niño
+79,+3 SD,13.3,niño
+79.5,+3 SD,13.4,niño
+80,+3 SD,13.6,niño
+80.5,+3 SD,13.7,niño
+81,+3 SD,13.8,niño
+81.5,+3 SD,13.9,niño
+82,+3 SD,14,niño
+82.5,+3 SD,14.2,niño
+83,+3 SD,14.3,niño
+83.5,+3 SD,14.4,niño
+84,+3 SD,14.6,niño
+84.5,+3 SD,14.7,niño
+85,+3 SD,14.9,niño
+85.5,+3 SD,15,niño
+86,+3 SD,15.2,niño
+86.5,+3 SD,15.3,niño
+87,+3 SD,15.5,niño
+87.5,+3 SD,15.6,niño
+88,+3 SD,15.8,niño
+88.5,+3 SD,15.9,niño
+89,+3 SD,16.1,niño
+89.5,+3 SD,16.2,niño
+90,+3 SD,16.4,niño
+90.5,+3 SD,16.5,niño
+91,+3 SD,16.7,niño
+91.5,+3 SD,16.8,niño
+92,+3 SD,17,niño
+92.5,+3 SD,17.1,niño
+93,+3 SD,17.3,niño
+93.5,+3 SD,17.4,niño
+94,+3 SD,17.6,niño
+94.5,+3 SD,17.7,niño
+95,+3 SD,17.9,niño
+95.5,+3 SD,18,niño
+96,+3 SD,18.2,niño
+96.5,+3 SD,18.4,niño
+97,+3 SD,18.5,niño
+97.5,+3 SD,18.7,niño
+98,+3 SD,18.9,niño
+98.5,+3 SD,19.1,niño
+99,+3 SD,19.2,niño
+99.5,+3 SD,19.4,niño
+100,+3 SD,19.6,niño
+100.5,+3 SD,19.8,niño
+101,+3 SD,20,niño
+101.5,+3 SD,20.2,niño
+102,+3 SD,20.4,niño
+102.5,+3 SD,20.6,niño
+103,+3 SD,20.8,niño
+103.5,+3 SD,21,niño
+104,+3 SD,21.2,niño
+104.5,+3 SD,21.5,niño
+105,+3 SD,21.7,niño
+105.5,+3 SD,21.9,niño
+106,+3 SD,22.1,niño
+106.5,+3 SD,22.4,niño
+107,+3 SD,22.6,niño
+107.5,+3 SD,22.8,niño
+108,+3 SD,23.1,niño
+108.5,+3 SD,23.3,niño
+109,+3 SD,23.6,niño
+109.5,+3 SD,23.8,niño
+110,+3 SD,24.1,niño
+45,-3 SD,1.9,niña
+45.5,-3 SD,2,niña
+46,-3 SD,2,niña
+46.5,-3 SD,2.1,niña
+47,-3 SD,2.2,niña
+47.5,-3 SD,2.2,niña
+48,-3 SD,2.3,niña
+48.5,-3 SD,2.4,niña
+49,-3 SD,2.4,niña
+49.5,-3 SD,2.5,niña
+50,-3 SD,2.6,niña
+50.5,-3 SD,2.7,niña
+51,-3 SD,2.8,niña
+51.5,-3 SD,2.8,niña
+52,-3 SD,2.9,niña
+52.5,-3 SD,3,niña
+53,-3 SD,3.1,niña
+53.5,-3 SD,3.2,niña
+54,-3 SD,3.3,niña
+54.5,-3 SD,3.4,niña
+55,-3 SD,3.5,niña
+55.5,-3 SD,3.6,niña
+56,-3 SD,3.7,niña
+56.5,-3 SD,3.8,niña
+57,-3 SD,3.9,niña
+57.5,-3 SD,4,niña
+58,-3 SD,4.1,niña
+58.5,-3 SD,4.2,niña
+59,-3 SD,4.3,niña
+59.5,-3 SD,4.4,niña
+60,-3 SD,4.5,niña
+60.5,-3 SD,4.6,niña
+61,-3 SD,4.7,niña
+61.5,-3 SD,4.8,niña
+62,-3 SD,4.9,niña
+62.5,-3 SD,5,niña
+63,-3 SD,5.1,niña
+63.5,-3 SD,5.2,niña
+64,-3 SD,5.3,niña
+64.5,-3 SD,5.4,niña
+65,-3 SD,5.5,niña
+65.5,-3 SD,5.5,niña
+66,-3 SD,5.6,niña
+66.5,-3 SD,5.7,niña
+67,-3 SD,5.8,niña
+67.5,-3 SD,5.9,niña
+68,-3 SD,6,niña
+68.5,-3 SD,6.1,niña
+69,-3 SD,6.1,niña
+69.5,-3 SD,6.2,niña
+70,-3 SD,6.3,niña
+70.5,-3 SD,6.4,niña
+71,-3 SD,6.5,niña
+71.5,-3 SD,6.5,niña
+72,-3 SD,6.6,niña
+72.5,-3 SD,6.7,niña
+73,-3 SD,6.8,niña
+73.5,-3 SD,6.9,niña
+74,-3 SD,6.9,niña
+74.5,-3 SD,7,niña
+75,-3 SD,7.1,niña
+75.5,-3 SD,7.1,niña
+76,-3 SD,7.2,niña
+76.5,-3 SD,7.3,niña
+77,-3 SD,7.4,niña
+77.5,-3 SD,7.4,niña
+78,-3 SD,7.5,niña
+78.5,-3 SD,7.6,niña
+79,-3 SD,7.7,niña
+79.5,-3 SD,7.7,niña
+80,-3 SD,7.8,niña
+80.5,-3 SD,7.9,niña
+81,-3 SD,8,niña
+81.5,-3 SD,8.1,niña
+82,-3 SD,8.1,niña
+82.5,-3 SD,8.2,niña
+83,-3 SD,8.3,niña
+83.5,-3 SD,8.4,niña
+84,-3 SD,8.5,niña
+84.5,-3 SD,8.6,niña
+85,-3 SD,8.7,niña
+85.5,-3 SD,8.8,niña
+86,-3 SD,8.9,niña
+86.5,-3 SD,9,niña
+87,-3 SD,9.1,niña
+87.5,-3 SD,9.2,niña
+88,-3 SD,9.3,niña
+88.5,-3 SD,9.4,niña
+89,-3 SD,9.5,niña
+89.5,-3 SD,9.6,niña
+90,-3 SD,9.7,niña
+90.5,-3 SD,9.8,niña
+91,-3 SD,9.9,niña
+91.5,-3 SD,10,niña
+92,-3 SD,10.1,niña
+92.5,-3 SD,10.1,niña
+93,-3 SD,10.2,niña
+93.5,-3 SD,10.3,niña
+94,-3 SD,10.4,niña
+94.5,-3 SD,10.5,niña
+95,-3 SD,10.6,niña
+95.5,-3 SD,10.7,niña
+96,-3 SD,10.8,niña
+96.5,-3 SD,10.9,niña
+97,-3 SD,11,niña
+97.5,-3 SD,11.1,niña
+98,-3 SD,11.2,niña
+98.5,-3 SD,11.3,niña
+99,-3 SD,11.4,niña
+99.5,-3 SD,11.5,niña
+100,-3 SD,11.6,niña
+100.5,-3 SD,11.7,niña
+101,-3 SD,11.8,niña
+101.5,-3 SD,11.9,niña
+102,-3 SD,12,niña
+102.5,-3 SD,12.1,niña
+103,-3 SD,12.3,niña
+103.5,-3 SD,12.4,niña
+104,-3 SD,12.5,niña
+104.5,-3 SD,12.6,niña
+105,-3 SD,12.7,niña
+105.5,-3 SD,12.8,niña
+106,-3 SD,13,niña
+106.5,-3 SD,13.1,niña
+107,-3 SD,13.2,niña
+107.5,-3 SD,13.3,niña
+108,-3 SD,13.5,niña
+108.5,-3 SD,13.6,niña
+109,-3 SD,13.7,niña
+109.5,-3 SD,13.9,niña
+110,-3 SD,14,niña
+45,-2 SD,2.1,niña
+45.5,-2 SD,2.1,niña
+46,-2 SD,2.2,niña
+46.5,-2 SD,2.3,niña
+47,-2 SD,2.4,niña
+47.5,-2 SD,2.4,niña
+48,-2 SD,2.5,niña
+48.5,-2 SD,2.6,niña
+49,-2 SD,2.6,niña
+49.5,-2 SD,2.7,niña
+50,-2 SD,2.8,niña
+50.5,-2 SD,2.9,niña
+51,-2 SD,3,niña
+51.5,-2 SD,3.1,niña
+52,-2 SD,3.2,niña
+52.5,-2 SD,3.3,niña
+53,-2 SD,3.4,niña
+53.5,-2 SD,3.5,niña
+54,-2 SD,3.6,niña
+54.5,-2 SD,3.7,niña
+55,-2 SD,3.8,niña
+55.5,-2 SD,3.9,niña
+56,-2 SD,4,niña
+56.5,-2 SD,4.1,niña
+57,-2 SD,4.3,niña
+57.5,-2 SD,4.4,niña
+58,-2 SD,4.5,niña
+58.5,-2 SD,4.6,niña
+59,-2 SD,4.7,niña
+59.5,-2 SD,4.8,niña
+60,-2 SD,4.9,niña
+60.5,-2 SD,5,niña
+61,-2 SD,5.1,niña
+61.5,-2 SD,5.2,niña
+62,-2 SD,5.3,niña
+62.5,-2 SD,5.4,niña
+63,-2 SD,5.5,niña
+63.5,-2 SD,5.6,niña
+64,-2 SD,5.7,niña
+64.5,-2 SD,5.8,niña
+65,-2 SD,5.9,niña
+65.5,-2 SD,6,niña
+66,-2 SD,6.1,niña
+66.5,-2 SD,6.2,niña
+67,-2 SD,6.3,niña
+67.5,-2 SD,6.4,niña
+68,-2 SD,6.5,niña
+68.5,-2 SD,6.6,niña
+69,-2 SD,6.7,niña
+69.5,-2 SD,6.8,niña
+70,-2 SD,6.9,niña
+70.5,-2 SD,6.9,niña
+71,-2 SD,7,niña
+71.5,-2 SD,7.1,niña
+72,-2 SD,7.2,niña
+72.5,-2 SD,7.3,niña
+73,-2 SD,7.4,niña
+73.5,-2 SD,7.4,niña
+74,-2 SD,7.5,niña
+74.5,-2 SD,7.6,niña
+75,-2 SD,7.7,niña
+75.5,-2 SD,7.8,niña
+76,-2 SD,7.8,niña
+76.5,-2 SD,7.9,niña
+77,-2 SD,8,niña
+77.5,-2 SD,8.1,niña
+78,-2 SD,8.2,niña
+78.5,-2 SD,8.2,niña
+79,-2 SD,8.3,niña
+79.5,-2 SD,8.4,niña
+80,-2 SD,8.5,niña
+80.5,-2 SD,8.6,niña
+81,-2 SD,8.7,niña
+81.5,-2 SD,8.8,niña
+82,-2 SD,8.8,niña
+82.5,-2 SD,8.9,niña
+83,-2 SD,9,niña
+83.5,-2 SD,9.1,niña
+84,-2 SD,9.2,niña
+84.5,-2 SD,9.3,niña
+85,-2 SD,9.4,niña
+85.5,-2 SD,9.5,niña
+86,-2 SD,9.7,niña
+86.5,-2 SD,9.8,niña
+87,-2 SD,9.9,niña
+87.5,-2 SD,10,niña
+88,-2 SD,10.1,niña
+88.5,-2 SD,10.2,niña
+89,-2 SD,10.3,niña
+89.5,-2 SD,10.4,niña
+90,-2 SD,10.5,niña
+90.5,-2 SD,10.6,niña
+91,-2 SD,10.7,niña
+91.5,-2 SD,10.8,niña
+92,-2 SD,10.9,niña
+92.5,-2 SD,11,niña
+93,-2 SD,11.1,niña
+93.5,-2 SD,11.2,niña
+94,-2 SD,11.3,niña
+94.5,-2 SD,11.4,niña
+95,-2 SD,11.5,niña
+95.5,-2 SD,11.6,niña
+96,-2 SD,11.7,niña
+96.5,-2 SD,11.8,niña
+97,-2 SD,12,niña
+97.5,-2 SD,12.1,niña
+98,-2 SD,12.2,niña
+98.5,-2 SD,12.3,niña
+99,-2 SD,12.4,niña
+99.5,-2 SD,12.5,niña
+100,-2 SD,12.6,niña
+100.5,-2 SD,12.7,niña
+101,-2 SD,12.8,niña
+101.5,-2 SD,13,niña
+102,-2 SD,13.1,niña
+102.5,-2 SD,13.2,niña
+103,-2 SD,13.3,niña
+103.5,-2 SD,13.5,niña
+104,-2 SD,13.6,niña
+104.5,-2 SD,13.7,niña
+105,-2 SD,13.8,niña
+105.5,-2 SD,14,niña
+106,-2 SD,14.1,niña
+106.5,-2 SD,14.3,niña
+107,-2 SD,14.4,niña
+107.5,-2 SD,14.5,niña
+108,-2 SD,14.7,niña
+108.5,-2 SD,14.8,niña
+109,-2 SD,15,niña
+109.5,-2 SD,15.1,niña
+110,-2 SD,15.3,niña
+45,-1 SD,2.3,niña
+45.5,-1 SD,2.3,niña
+46,-1 SD,2.4,niña
+46.5,-1 SD,2.5,niña
+47,-1 SD,2.6,niña
+47.5,-1 SD,2.6,niña
+48,-1 SD,2.7,niña
+48.5,-1 SD,2.8,niña
+49,-1 SD,2.9,niña
+49.5,-1 SD,3,niña
+50,-1 SD,3.1,niña
+50.5,-1 SD,3.2,niña
+51,-1 SD,3.3,niña
+51.5,-1 SD,3.4,niña
+52,-1 SD,3.5,niña
+52.5,-1 SD,3.6,niña
+53,-1 SD,3.7,niña
+53.5,-1 SD,3.8,niña
+54,-1 SD,3.9,niña
+54.5,-1 SD,4,niña
+55,-1 SD,4.2,niña
+55.5,-1 SD,4.3,niña
+56,-1 SD,4.4,niña
+56.5,-1 SD,4.5,niña
+57,-1 SD,4.6,niña
+57.5,-1 SD,4.8,niña
+58,-1 SD,4.9,niña
+58.5,-1 SD,5,niña
+59,-1 SD,5.1,niña
+59.5,-1 SD,5.3,niña
+60,-1 SD,5.4,niña
+60.5,-1 SD,5.5,niña
+61,-1 SD,5.6,niña
+61.5,-1 SD,5.7,niña
+62,-1 SD,5.8,niña
+62.5,-1 SD,5.9,niña
+63,-1 SD,6,niña
+63.5,-1 SD,6.2,niña
+64,-1 SD,6.3,niña
+64.5,-1 SD,6.4,niña
+65,-1 SD,6.5,niña
+65.5,-1 SD,6.6,niña
+66,-1 SD,6.7,niña
+66.5,-1 SD,6.8,niña
+67,-1 SD,6.9,niña
+67.5,-1 SD,7,niña
+68,-1 SD,7.1,niña
+68.5,-1 SD,7.2,niña
+69,-1 SD,7.3,niña
+69.5,-1 SD,7.4,niña
+70,-1 SD,7.5,niña
+70.5,-1 SD,7.6,niña
+71,-1 SD,7.7,niña
+71.5,-1 SD,7.7,niña
+72,-1 SD,7.8,niña
+72.5,-1 SD,7.9,niña
+73,-1 SD,8,niña
+73.5,-1 SD,8.1,niña
+74,-1 SD,8.2,niña
+74.5,-1 SD,8.3,niña
+75,-1 SD,8.4,niña
+75.5,-1 SD,8.5,niña
+76,-1 SD,8.5,niña
+76.5,-1 SD,8.6,niña
+77,-1 SD,8.7,niña
+77.5,-1 SD,8.8,niña
+78,-1 SD,8.9,niña
+78.5,-1 SD,9,niña
+79,-1 SD,9.1,niña
+79.5,-1 SD,9.1,niña
+80,-1 SD,9.2,niña
+80.5,-1 SD,9.3,niña
+81,-1 SD,9.4,niña
+81.5,-1 SD,9.5,niña
+82,-1 SD,9.6,niña
+82.5,-1 SD,9.7,niña
+83,-1 SD,9.8,niña
+83.5,-1 SD,9.9,niña
+84,-1 SD,10.1,niña
+84.5,-1 SD,10.2,niña
+85,-1 SD,10.3,niña
+85.5,-1 SD,10.4,niña
+86,-1 SD,10.5,niña
+86.5,-1 SD,10.6,niña
+87,-1 SD,10.7,niña
+87.5,-1 SD,10.9,niña
+88,-1 SD,11,niña
+88.5,-1 SD,11.1,niña
+89,-1 SD,11.2,niña
+89.5,-1 SD,11.3,niña
+90,-1 SD,11.4,niña
+90.5,-1 SD,11.5,niña
+91,-1 SD,11.7,niña
+91.5,-1 SD,11.8,niña
+92,-1 SD,11.9,niña
+92.5,-1 SD,12,niña
+93,-1 SD,12.1,niña
+93.5,-1 SD,12.2,niña
+94,-1 SD,12.3,niña
+94.5,-1 SD,12.4,niña
+95,-1 SD,12.6,niña
+95.5,-1 SD,12.7,niña
+96,-1 SD,12.8,niña
+96.5,-1 SD,12.9,niña
+97,-1 SD,13,niña
+97.5,-1 SD,13.1,niña
+98,-1 SD,13.3,niña
+98.5,-1 SD,13.4,niña
+99,-1 SD,13.5,niña
+99.5,-1 SD,13.6,niña
+100,-1 SD,13.7,niña
+100.5,-1 SD,13.9,niña
+101,-1 SD,14,niña
+101.5,-1 SD,14.1,niña
+102,-1 SD,14.3,niña
+102.5,-1 SD,14.4,niña
+103,-1 SD,14.5,niña
+103.5,-1 SD,14.7,niña
+104,-1 SD,14.8,niña
+104.5,-1 SD,15,niña
+105,-1 SD,15.1,niña
+105.5,-1 SD,15.3,niña
+106,-1 SD,15.4,niña
+106.5,-1 SD,15.6,niña
+107,-1 SD,15.7,niña
+107.5,-1 SD,15.9,niña
+108,-1 SD,16,niña
+108.5,-1 SD,16.2,niña
+109,-1 SD,16.4,niña
+109.5,-1 SD,16.5,niña
+110,-1 SD,16.7,niña
+45,Mediana,2.5,niña
+45.5,Mediana,2.5,niña
+46,Mediana,2.6,niña
+46.5,Mediana,2.7,niña
+47,Mediana,2.8,niña
+47.5,Mediana,2.9,niña
+48,Mediana,3,niña
+48.5,Mediana,3.1,niña
+49,Mediana,3.2,niña
+49.5,Mediana,3.3,niña
+50,Mediana,3.4,niña
+50.5,Mediana,3.5,niña
+51,Mediana,3.6,niña
+51.5,Mediana,3.7,niña
+52,Mediana,3.8,niña
+52.5,Mediana,3.9,niña
+53,Mediana,4,niña
+53.5,Mediana,4.2,niña
+54,Mediana,4.3,niña
+54.5,Mediana,4.4,niña
+55,Mediana,4.5,niña
+55.5,Mediana,4.7,niña
+56,Mediana,4.8,niña
+56.5,Mediana,5,niña
+57,Mediana,5.1,niña
+57.5,Mediana,5.2,niña
+58,Mediana,5.4,niña
+58.5,Mediana,5.5,niña
+59,Mediana,5.6,niña
+59.5,Mediana,5.7,niña
+60,Mediana,5.9,niña
+60.5,Mediana,6,niña
+61,Mediana,6.1,niña
+61.5,Mediana,6.3,niña
+62,Mediana,6.4,niña
+62.5,Mediana,6.5,niña
+63,Mediana,6.6,niña
+63.5,Mediana,6.7,niña
+64,Mediana,6.9,niña
+64.5,Mediana,7,niña
+65,Mediana,7.1,niña
+65.5,Mediana,7.2,niña
+66,Mediana,7.3,niña
+66.5,Mediana,7.4,niña
+67,Mediana,7.5,niña
+67.5,Mediana,7.6,niña
+68,Mediana,7.7,niña
+68.5,Mediana,7.9,niña
+69,Mediana,8,niña
+69.5,Mediana,8.1,niña
+70,Mediana,8.2,niña
+70.5,Mediana,8.3,niña
+71,Mediana,8.4,niña
+71.5,Mediana,8.5,niña
+72,Mediana,8.6,niña
+72.5,Mediana,8.7,niña
+73,Mediana,8.8,niña
+73.5,Mediana,8.9,niña
+74,Mediana,9,niña
+74.5,Mediana,9.1,niña
+75,Mediana,9.1,niña
+75.5,Mediana,9.2,niña
+76,Mediana,9.3,niña
+76.5,Mediana,9.4,niña
+77,Mediana,9.5,niña
+77.5,Mediana,9.6,niña
+78,Mediana,9.7,niña
+78.5,Mediana,9.8,niña
+79,Mediana,9.9,niña
+79.5,Mediana,10,niña
+80,Mediana,10.1,niña
+80.5,Mediana,10.2,niña
+81,Mediana,10.3,niña
+81.5,Mediana,10.4,niña
+82,Mediana,10.5,niña
+82.5,Mediana,10.6,niña
+83,Mediana,10.7,niña
+83.5,Mediana,10.9,niña
+84,Mediana,11,niña
+84.5,Mediana,11.1,niña
+85,Mediana,11.2,niña
+85.5,Mediana,11.3,niña
+86,Mediana,11.5,niña
+86.5,Mediana,11.6,niña
+87,Mediana,11.7,niña
+87.5,Mediana,11.8,niña
+88,Mediana,12,niña
+88.5,Mediana,12.1,niña
+89,Mediana,12.2,niña
+89.5,Mediana,12.3,niña
+90,Mediana,12.5,niña
+90.5,Mediana,12.6,niña
+91,Mediana,12.7,niña
+91.5,Mediana,12.8,niña
+92,Mediana,13,niña
+92.5,Mediana,13.1,niña
+93,Mediana,13.2,niña
+93.5,Mediana,13.3,niña
+94,Mediana,13.5,niña
+94.5,Mediana,13.6,niña
+95,Mediana,13.7,niña
+95.5,Mediana,13.8,niña
+96,Mediana,14,niña
+96.5,Mediana,14.1,niña
+97,Mediana,14.2,niña
+97.5,Mediana,14.4,niña
+98,Mediana,14.5,niña
+98.5,Mediana,14.6,niña
+99,Mediana,14.8,niña
+99.5,Mediana,14.9,niña
+100,Mediana,15,niña
+100.5,Mediana,15.2,niña
+101,Mediana,15.3,niña
+101.5,Mediana,15.5,niña
+102,Mediana,15.6,niña
+102.5,Mediana,15.8,niña
+103,Mediana,15.9,niña
+103.5,Mediana,16.1,niña
+104,Mediana,16.2,niña
+104.5,Mediana,16.4,niña
+105,Mediana,16.5,niña
+105.5,Mediana,16.7,niña
+106,Mediana,16.9,niña
+106.5,Mediana,17.1,niña
+107,Mediana,17.2,niña
+107.5,Mediana,17.4,niña
+108,Mediana,17.6,niña
+108.5,Mediana,17.8,niña
+109,Mediana,18,niña
+109.5,Mediana,18.1,niña
+110,Mediana,18.3,niña
+45,+1 SD,2.7,niña
+45.5,+1 SD,2.8,niña
+46,+1 SD,2.9,niña
+46.5,+1 SD,3,niña
+47,+1 SD,3.1,niña
+47.5,+1 SD,3.2,niña
+48,+1 SD,3.3,niña
+48.5,+1 SD,3.4,niña
+49,+1 SD,3.5,niña
+49.5,+1 SD,3.6,niña
+50,+1 SD,3.7,niña
+50.5,+1 SD,3.8,niña
+51,+1 SD,3.9,niña
+51.5,+1 SD,4,niña
+52,+1 SD,4.2,niña
+52.5,+1 SD,4.3,niña
+53,+1 SD,4.4,niña
+53.5,+1 SD,4.6,niña
+54,+1 SD,4.7,niña
+54.5,+1 SD,4.8,niña
+55,+1 SD,5,niña
+55.5,+1 SD,5.1,niña
+56,+1 SD,5.3,niña
+56.5,+1 SD,5.4,niña
+57,+1 SD,5.6,niña
+57.5,+1 SD,5.7,niña
+58,+1 SD,5.9,niña
+58.5,+1 SD,6,niña
+59,+1 SD,6.2,niña
+59.5,+1 SD,6.3,niña
+60,+1 SD,6.4,niña
+60.5,+1 SD,6.6,niña
+61,+1 SD,6.7,niña
+61.5,+1 SD,6.9,niña
+62,+1 SD,7,niña
+62.5,+1 SD,7.1,niña
+63,+1 SD,7.3,niña
+63.5,+1 SD,7.4,niña
+64,+1 SD,7.5,niña
+64.5,+1 SD,7.6,niña
+65,+1 SD,7.8,niña
+65.5,+1 SD,7.9,niña
+66,+1 SD,8,niña
+66.5,+1 SD,8.1,niña
+67,+1 SD,8.3,niña
+67.5,+1 SD,8.4,niña
+68,+1 SD,8.5,niña
+68.5,+1 SD,8.6,niña
+69,+1 SD,8.7,niña
+69.5,+1 SD,8.8,niña
+70,+1 SD,9,niña
+70.5,+1 SD,9.1,niña
+71,+1 SD,9.2,niña
+71.5,+1 SD,9.3,niña
+72,+1 SD,9.4,niña
+72.5,+1 SD,9.5,niña
+73,+1 SD,9.6,niña
+73.5,+1 SD,9.7,niña
+74,+1 SD,9.8,niña
+74.5,+1 SD,9.9,niña
+75,+1 SD,10,niña
+75.5,+1 SD,10.1,niña
+76,+1 SD,10.2,niña
+76.5,+1 SD,10.3,niña
+77,+1 SD,10.4,niña
+77.5,+1 SD,10.5,niña
+78,+1 SD,10.6,niña
+78.5,+1 SD,10.7,niña
+79,+1 SD,10.8,niña
+79.5,+1 SD,10.9,niña
+80,+1 SD,11,niña
+80.5,+1 SD,11.2,niña
+81,+1 SD,11.3,niña
+81.5,+1 SD,11.4,niña
+82,+1 SD,11.5,niña
+82.5,+1 SD,11.6,niña
+83,+1 SD,11.8,niña
+83.5,+1 SD,11.9,niña
+84,+1 SD,12,niña
+84.5,+1 SD,12.1,niña
+85,+1 SD,12.3,niña
+85.5,+1 SD,12.4,niña
+86,+1 SD,12.6,niña
+86.5,+1 SD,12.7,niña
+87,+1 SD,12.8,niña
+87.5,+1 SD,13,niña
+88,+1 SD,13.1,niña
+88.5,+1 SD,13.2,niña
+89,+1 SD,13.4,niña
+89.5,+1 SD,13.5,niña
+90,+1 SD,13.7,niña
+90.5,+1 SD,13.8,niña
+91,+1 SD,13.9,niña
+91.5,+1 SD,14.1,niña
+92,+1 SD,14.2,niña
+92.5,+1 SD,14.3,niña
+93,+1 SD,14.5,niña
+93.5,+1 SD,14.6,niña
+94,+1 SD,14.7,niña
+94.5,+1 SD,14.9,niña
+95,+1 SD,15,niña
+95.5,+1 SD,15.2,niña
+96,+1 SD,15.3,niña
+96.5,+1 SD,15.4,niña
+97,+1 SD,15.6,niña
+97.5,+1 SD,15.7,niña
+98,+1 SD,15.9,niña
+98.5,+1 SD,16,niña
+99,+1 SD,16.2,niña
+99.5,+1 SD,16.3,niña
+100,+1 SD,16.5,niña
+100.5,+1 SD,16.6,niña
+101,+1 SD,16.8,niña
+101.5,+1 SD,17,niña
+102,+1 SD,17.1,niña
+102.5,+1 SD,17.3,niña
+103,+1 SD,17.5,niña
+103.5,+1 SD,17.6,niña
+104,+1 SD,17.8,niña
+104.5,+1 SD,18,niña
+105,+1 SD,18.2,niña
+105.5,+1 SD,18.4,niña
+106,+1 SD,18.5,niña
+106.5,+1 SD,18.7,niña
+107,+1 SD,18.9,niña
+107.5,+1 SD,19.1,niña
+108,+1 SD,19.3,niña
+108.5,+1 SD,19.5,niña
+109,+1 SD,19.7,niña
+109.5,+1 SD,20,niña
+110,+1 SD,20.2,niña
+45,+2 SD,3,niña
+45.5,+2 SD,3.1,niña
+46,+2 SD,3.2,niña
+46.5,+2 SD,3.3,niña
+47,+2 SD,3.4,niña
+47.5,+2 SD,3.5,niña
+48,+2 SD,3.6,niña
+48.5,+2 SD,3.7,niña
+49,+2 SD,3.8,niña
+49.5,+2 SD,3.9,niña
+50,+2 SD,4,niña
+50.5,+2 SD,4.2,niña
+51,+2 SD,4.3,niña
+51.5,+2 SD,4.4,niña
+52,+2 SD,4.6,niña
+52.5,+2 SD,4.7,niña
+53,+2 SD,4.9,niña
+53.5,+2 SD,5,niña
+54,+2 SD,5.2,niña
+54.5,+2 SD,5.3,niña
+55,+2 SD,5.5,niña
+55.5,+2 SD,5.7,niña
+56,+2 SD,5.8,niña
+56.5,+2 SD,6,niña
+57,+2 SD,6.1,niña
+57.5,+2 SD,6.3,niña
+58,+2 SD,6.5,niña
+58.5,+2 SD,6.6,niña
+59,+2 SD,6.8,niña
+59.5,+2 SD,6.9,niña
+60,+2 SD,7.1,niña
+60.5,+2 SD,7.3,niña
+61,+2 SD,7.4,niña
+61.5,+2 SD,7.6,niña
+62,+2 SD,7.7,niña
+62.5,+2 SD,7.8,niña
+63,+2 SD,8,niña
+63.5,+2 SD,8.1,niña
+64,+2 SD,8.3,niña
+64.5,+2 SD,8.4,niña
+65,+2 SD,8.6,niña
+65.5,+2 SD,8.7,niña
+66,+2 SD,8.8,niña
+66.5,+2 SD,9,niña
+67,+2 SD,9.1,niña
+67.5,+2 SD,9.2,niña
+68,+2 SD,9.4,niña
+68.5,+2 SD,9.5,niña
+69,+2 SD,9.6,niña
+69.5,+2 SD,9.7,niña
+70,+2 SD,9.9,niña
+70.5,+2 SD,10,niña
+71,+2 SD,10.1,niña
+71.5,+2 SD,10.2,niña
+72,+2 SD,10.3,niña
+72.5,+2 SD,10.5,niña
+73,+2 SD,10.6,niña
+73.5,+2 SD,10.7,niña
+74,+2 SD,10.8,niña
+74.5,+2 SD,10.9,niña
+75,+2 SD,11,niña
+75.5,+2 SD,11.1,niña
+76,+2 SD,11.2,niña
+76.5,+2 SD,11.4,niña
+77,+2 SD,11.5,niña
+77.5,+2 SD,11.6,niña
+78,+2 SD,11.7,niña
+78.5,+2 SD,11.8,niña
+79,+2 SD,11.9,niña
+79.5,+2 SD,12,niña
+80,+2 SD,12.1,niña
+80.5,+2 SD,12.3,niña
+81,+2 SD,12.4,niña
+81.5,+2 SD,12.5,niña
+82,+2 SD,12.6,niña
+82.5,+2 SD,12.8,niña
+83,+2 SD,12.9,niña
+83.5,+2 SD,13.1,niña
+84,+2 SD,13.2,niña
+84.5,+2 SD,13.3,niña
+85,+2 SD,13.5,niña
+85.5,+2 SD,13.6,niña
+86,+2 SD,13.8,niña
+86.5,+2 SD,13.9,niña
+87,+2 SD,14.1,niña
+87.5,+2 SD,14.2,niña
+88,+2 SD,14.4,niña
+88.5,+2 SD,14.5,niña
+89,+2 SD,14.7,niña
+89.5,+2 SD,14.8,niña
+90,+2 SD,15,niña
+90.5,+2 SD,15.1,niña
+91,+2 SD,15.3,niña
+91.5,+2 SD,15.5,niña
+92,+2 SD,15.6,niña
+92.5,+2 SD,15.8,niña
+93,+2 SD,15.9,niña
+93.5,+2 SD,16.1,niña
+94,+2 SD,16.2,niña
+94.5,+2 SD,16.4,niña
+95,+2 SD,16.5,niña
+95.5,+2 SD,16.7,niña
+96,+2 SD,16.8,niña
+96.5,+2 SD,17,niña
+97,+2 SD,17.1,niña
+97.5,+2 SD,17.3,niña
+98,+2 SD,17.5,niña
+98.5,+2 SD,17.6,niña
+99,+2 SD,17.8,niña
+99.5,+2 SD,18,niña
+100,+2 SD,18.1,niña
+100.5,+2 SD,18.3,niña
+101,+2 SD,18.5,niña
+101.5,+2 SD,18.7,niña
+102,+2 SD,18.9,niña
+102.5,+2 SD,19,niña
+103,+2 SD,19.2,niña
+103.5,+2 SD,19.4,niña
+104,+2 SD,19.6,niña
+104.5,+2 SD,19.8,niña
+105,+2 SD,20,niña
+105.5,+2 SD,20.2,niña
+106,+2 SD,20.5,niña
+106.5,+2 SD,20.7,niña
+107,+2 SD,20.9,niña
+107.5,+2 SD,21.1,niña
+108,+2 SD,21.3,niña
+108.5,+2 SD,21.6,niña
+109,+2 SD,21.8,niña
+109.5,+2 SD,22,niña
+110,+2 SD,22.3,niña
+45,+3 SD,3.3,niña
+45.5,+3 SD,3.4,niña
+46,+3 SD,3.5,niña
+46.5,+3 SD,3.6,niña
+47,+3 SD,3.7,niña
+47.5,+3 SD,3.8,niña
+48,+3 SD,4,niña
+48.5,+3 SD,4.1,niña
+49,+3 SD,4.2,niña
+49.5,+3 SD,4.3,niña
+50,+3 SD,4.5,niña
+50.5,+3 SD,4.6,niña
+51,+3 SD,4.8,niña
+51.5,+3 SD,4.9,niña
+52,+3 SD,5.1,niña
+52.5,+3 SD,5.2,niña
+53,+3 SD,5.4,niña
+53.5,+3 SD,5.5,niña
+54,+3 SD,5.7,niña
+54.5,+3 SD,5.9,niña
+55,+3 SD,6.1,niña
+55.5,+3 SD,6.3,niña
+56,+3 SD,6.4,niña
+56.5,+3 SD,6.6,niña
+57,+3 SD,6.8,niña
+57.5,+3 SD,7,niña
+58,+3 SD,7.1,niña
+58.5,+3 SD,7.3,niña
+59,+3 SD,7.5,niña
+59.5,+3 SD,7.7,niña
+60,+3 SD,7.8,niña
+60.5,+3 SD,8,niña
+61,+3 SD,8.2,niña
+61.5,+3 SD,8.4,niña
+62,+3 SD,8.5,niña
+62.5,+3 SD,8.7,niña
+63,+3 SD,8.8,niña
+63.5,+3 SD,9,niña
+64,+3 SD,9.1,niña
+64.5,+3 SD,9.3,niña
+65,+3 SD,9.5,niña
+65.5,+3 SD,9.6,niña
+66,+3 SD,9.8,niña
+66.5,+3 SD,9.9,niña
+67,+3 SD,10,niña
+67.5,+3 SD,10.2,niña
+68,+3 SD,10.3,niña
+68.5,+3 SD,10.5,niña
+69,+3 SD,10.6,niña
+69.5,+3 SD,10.7,niña
+70,+3 SD,10.9,niña
+70.5,+3 SD,11,niña
+71,+3 SD,11.1,niña
+71.5,+3 SD,11.3,niña
+72,+3 SD,11.4,niña
+72.5,+3 SD,11.5,niña
+73,+3 SD,11.7,niña
+73.5,+3 SD,11.8,niña
+74,+3 SD,11.9,niña
+74.5,+3 SD,12,niña
+75,+3 SD,12.2,niña
+75.5,+3 SD,12.3,niña
+76,+3 SD,12.4,niña
+76.5,+3 SD,12.5,niña
+77,+3 SD,12.6,niña
+77.5,+3 SD,12.8,niña
+78,+3 SD,12.9,niña
+78.5,+3 SD,13,niña
+79,+3 SD,13.1,niña
+79.5,+3 SD,13.3,niña
+80,+3 SD,13.4,niña
+80.5,+3 SD,13.5,niña
+81,+3 SD,13.7,niña
+81.5,+3 SD,13.8,niña
+82,+3 SD,13.9,niña
+82.5,+3 SD,14.1,niña
+83,+3 SD,14.2,niña
+83.5,+3 SD,14.4,niña
+84,+3 SD,14.5,niña
+84.5,+3 SD,14.7,niña
+85,+3 SD,14.9,niña
+85.5,+3 SD,15,niña
+86,+3 SD,15.2,niña
+86.5,+3 SD,15.4,niña
+87,+3 SD,15.5,niña
+87.5,+3 SD,15.7,niña
+88,+3 SD,15.9,niña
+88.5,+3 SD,16,niña
+89,+3 SD,16.2,niña
+89.5,+3 SD,16.4,niña
+90,+3 SD,16.5,niña
+90.5,+3 SD,16.7,niña
+91,+3 SD,16.9,niña
+91.5,+3 SD,17,niña
+92,+3 SD,17.2,niña
+92.5,+3 SD,17.4,niña
+93,+3 SD,17.5,niña
+93.5,+3 SD,17.7,niña
+94,+3 SD,17.9,niña
+94.5,+3 SD,18,niña
+95,+3 SD,18.2,niña
+95.5,+3 SD,18.4,niña
+96,+3 SD,18.6,niña
+96.5,+3 SD,18.7,niña
+97,+3 SD,18.9,niña
+97.5,+3 SD,19.1,niña
+98,+3 SD,19.3,niña
+98.5,+3 SD,19.5,niña
+99,+3 SD,19.6,niña
+99.5,+3 SD,19.8,niña
+100,+3 SD,20,niña
+100.5,+3 SD,20.2,niña
+101,+3 SD,20.4,niña
+101.5,+3 SD,20.6,niña
+102,+3 SD,20.8,niña
+102.5,+3 SD,21,niña
+103,+3 SD,21.3,niña
+103.5,+3 SD,21.5,niña
+104,+3 SD,21.7,niña
+104.5,+3 SD,21.9,niña
+105,+3 SD,22.2,niña
+105.5,+3 SD,22.4,niña
+106,+3 SD,22.6,niña
+106.5,+3 SD,22.9,niña
+107,+3 SD,23.1,niña
+107.5,+3 SD,23.4,niña
+108,+3 SD,23.6,niña
+108.5,+3 SD,23.9,niña
+109,+3 SD,24.2,niña
+109.5,+3 SD,24.4,niña
+110,+3 SD,24.7,niña

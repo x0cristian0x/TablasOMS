@@ -1,0 +1,197 @@
+Semanas,Desviacion,Longitud,sexo
+0,-3 SD,44.2,niño
+1,-3 SD,45.4,niño
+2,-3 SD,46.6,niño
+3,-3 SD,47.6,niño
+4,-3 SD,48.6,niño
+5,-3 SD,49.5,niño
+6,-3 SD,50.3,niño
+7,-3 SD,51.1,niño
+8,-3 SD,51.9,niño
+9,-3 SD,52.6,niño
+10,-3 SD,53.3,niño
+11,-3 SD,54,niño
+12,-3 SD,54.7,niño
+13,-3 SD,55.3,niño
+0,-2 SD,46.1,niño
+1,-2 SD,47.3,niño
+2,-2 SD,48.5,niño
+3,-2 SD,49.5,niño
+4,-2 SD,50.5,niño
+5,-2 SD,51.4,niño
+6,-2 SD,52.3,niño
+7,-2 SD,53.1,niño
+8,-2 SD,53.9,niño
+9,-2 SD,54.6,niño
+10,-2 SD,55.4,niño
+11,-2 SD,56,niño
+12,-2 SD,56.7,niño
+13,-2 SD,57.3,niño
+0,-1 SD,48,niño
+1,-1 SD,49.2,niño
+2,-1 SD,50.4,niño
+3,-1 SD,51.5,niño
+4,-1 SD,52.4,niño
+5,-1 SD,53.4,niño
+6,-1 SD,54.3,niño
+7,-1 SD,55.1,niño
+8,-1 SD,55.9,niño
+9,-1 SD,56.6,niño
+10,-1 SD,57.4,niño
+11,-1 SD,58.1,niño
+12,-1 SD,58.7,niño
+13,-1 SD,59.4,niño
+0,Mediana,49.9,niño
+1,Mediana,51.1,niño
+2,Mediana,52.3,niño
+3,Mediana,53.4,niño
+4,Mediana,54.4,niño
+5,Mediana,55.3,niño
+6,Mediana,56.2,niño
+7,Mediana,57.1,niño
+8,Mediana,57.9,niño
+9,Mediana,58.7,niño
+10,Mediana,59.4,niño
+11,Mediana,60.1,niño
+12,Mediana,60.8,niño
+13,Mediana,61.4,niño
+0,+1 SD,51.8,niño
+1,+1 SD,53,niño
+2,+1 SD,54.3,niño
+3,+1 SD,55.3,niño
+4,+1 SD,56.3,niño
+5,+1 SD,57.3,niño
+6,+1 SD,58.2,niño
+7,+1 SD,59.1,niño
+8,+1 SD,59.9,niño
+9,+1 SD,60.7,niño
+10,+1 SD,61.4,niño
+11,+1 SD,62.1,niño
+12,+1 SD,62.8,niño
+13,+1 SD,63.4,niño
+0,+2 SD,53.7,niño
+1,+2 SD,54.9,niño
+2,+2 SD,56.2,niño
+3,+2 SD,57.2,niño
+4,+2 SD,58.3,niño
+5,+2 SD,59.2,niño
+6,+2 SD,60.2,niño
+7,+2 SD,61,niño
+8,+2 SD,61.9,niño
+9,+2 SD,62.7,niño
+10,+2 SD,63.4,niño
+11,+2 SD,64.1,niño
+12,+2 SD,64.8,niño
+13,+2 SD,65.5,niño
+0,+3 SD,55.6,niño
+1,+3 SD,56.8,niño
+2,+3 SD,58.1,niño
+3,+3 SD,59.2,niño
+4,+3 SD,60.2,niño
+5,+3 SD,61.2,niño
+6,+3 SD,62.1,niño
+7,+3 SD,63,niño
+8,+3 SD,63.9,niño
+9,+3 SD,64.7,niño
+10,+3 SD,65.4,niño
+11,+3 SD,66.2,niño
+12,+3 SD,66.9,niño
+13,+3 SD,67.5,niño
+0,-3 SD,43.6,niña
+1,-3 SD,44.7,niña
+2,-3 SD,45.8,niña
+3,-3 SD,46.7,niña
+4,-3 SD,47.5,niña
+5,-3 SD,48.3,niña
+6,-3 SD,49.1,niña
+7,-3 SD,49.8,niña
+8,-3 SD,50.5,niña
+9,-3 SD,51.2,niña
+10,-3 SD,51.8,niña
+11,-3 SD,52.4,niña
+12,-3 SD,52.9,niña
+13,-3 SD,53.5,niña
+0,-2 SD,45.4,niña
+1,-2 SD,46.6,niña
+2,-2 SD,47.7,niña
+3,-2 SD,48.6,niña
+4,-2 SD,49.5,niña
+5,-2 SD,50.3,niña
+6,-2 SD,51.1,niña
+7,-2 SD,51.8,niña
+8,-2 SD,52.5,niña
+9,-2 SD,53.2,niña
+10,-2 SD,53.8,niña
+11,-2 SD,54.4,niña
+12,-2 SD,55,niña
+13,-2 SD,55.6,niña
+0,-1 SD,47.3,niña
+1,-1 SD,48.4,niña
+2,-1 SD,49.6,niña
+3,-1 SD,50.5,niña
+4,-1 SD,51.4,niña
+5,-1 SD,52.3,niña
+6,-1 SD,53.1,niña
+7,-1 SD,53.8,niña
+8,-1 SD,54.6,niña
+9,-1 SD,55.2,niña
+10,-1 SD,55.9,niña
+11,-1 SD,56.5,niña
+12,-1 SD,57.1,niña
+13,-1 SD,57.7,niña
+0,Mediana,49.1,niña
+1,Mediana,50.3,niña
+2,Mediana,51.5,niña
+3,Mediana,52.5,niña
+4,Mediana,53.4,niña
+5,Mediana,54.2,niña
+6,Mediana,55.1,niña
+7,Mediana,55.8,niña
+8,Mediana,56.6,niña
+9,Mediana,57.3,niña
+10,Mediana,57.9,niña
+11,Mediana,58.6,niña
+12,Mediana,59.2,niña
+13,Mediana,59.8,niña
+0,+1 SD,51,niña
+1,+1 SD,52.2,niña
+2,+1 SD,53.4,niña
+3,+1 SD,54.4,niña
+4,+1 SD,55.3,niña
+5,+1 SD,56.2,niña
+6,+1 SD,57.1,niña
+7,+1 SD,57.8,niña
+8,+1 SD,58.6,niña
+9,+1 SD,59.3,niña
+10,+1 SD,60,niña
+11,+1 SD,60.7,niña
+12,+1 SD,61.3,niña
+13,+1 SD,61.9,niña
+0,+2 SD,52.9,niña
+1,+2 SD,54.1,niña
+2,+2 SD,55.3,niña
+3,+2 SD,56.3,niña
+4,+2 SD,57.3,niña
+5,+2 SD,58.2,niña
+6,+2 SD,59,niña
+7,+2 SD,59.9,niña
+8,+2 SD,60.6,niña
+9,+2 SD,61.4,niña
+10,+2 SD,62.1,niña
+11,+2 SD,62.7,niña
+12,+2 SD,63.4,niña
+13,+2 SD,64,niña
+0,+3 SD,54.7,niña
+1,+3 SD,56,niña
+2,+3 SD,57.2,niña
+3,+3 SD,58.2,niña
+4,+3 SD,59.2,niña
+5,+3 SD,60.1,niña
+6,+3 SD,61,niña
+7,+3 SD,61.9,niña
+8,+3 SD,62.6,niña
+9,+3 SD,63.4,niña
+10,+3 SD,64.1,niña
+11,+3 SD,64.8,niña
+12,+3 SD,65.5,niña
+13,+3 SD,66.1,niña
