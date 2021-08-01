@@ -13,3 +13,14 @@ docker build -t tablaoms .
 ```bash
 docker run -p 5024:5024 tablaoms
 ```
+
+Tambien se encuentra en docker hub:
+
+```bash
+docker pull x0cristianx0/tablaoms:version1
+```
+luego puedes correr con el comando:
+
+```bash
+docker run -p 5024:5024 x0cristianx0/tablaoms:version1
+```
