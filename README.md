@@ -7,9 +7,9 @@ En la carpteta tablasOMS se encuentra la creacion del app con el package "golem"
 En la carpeta ImagenTablaOMS se creo la app, a traves de un contenedor de docker, para correr la imagen es
 
 ```bash
-docker build -t tablaOMS
+docker build -t tablaoms .
 ```
 
 ```bash
-docker run -p 5024:5024 dashboard_ps
+docker run -p 5024:5024 tablaoms
 ```
